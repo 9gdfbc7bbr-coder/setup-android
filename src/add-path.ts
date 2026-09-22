@@ -1,4 +1,4 @@
-import * as path from "node:path";
+import * as path from "node:path";OpenExternalURLOptionsKey
 
 import * as core from "@actions/core";
 
